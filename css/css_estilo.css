@@ -1,0 +1,11 @@
+body {
+    background-color: #fff8f8;
+}
+
+.navbar-brand, .btn-outline-dark {
+    color: #550055 !important;
+}
+
+.btn-outline-dark:hover {
+    background-color: #f5e0f5 !important;
+}
